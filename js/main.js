@@ -16,9 +16,20 @@
 
 // Question 1b:
 // What happens here? Answer 85260 (since 8 is in quotations its treated like a string )
-var num1 = '8';
-var num2 = 52;
-var num3 = 60;
-// // What do you expect the final message to be?
-var combinedNumbers = num1 + num2 + num3;
-console.log(combinedNumbers);
+// var num1 = '8';
+// var num2 = 52;
+// var num3 = 60;
+// // // What do you expect the final message to be?
+// var combinedNumbers = num1 + num2 + num3;
+// console.log(combinedNumbers);
+
+// // What happens here?
+var mixedNum1 = 10;
+var mixedString1 = "ten";
+var mixedNum2 = "10";
+
+
+
+// // // What do you expect the final message to be? Answer: 1010ten
+var mixedConcatenation = mixedNum1 + mixedNum2 + mixedString1;
+console.log(mixedConcatenation);
