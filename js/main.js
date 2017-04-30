@@ -36,11 +36,22 @@
 // If / Else If / Else - Checking for True or False
 //  Question 2a:
 // Given these variables
+// var num4 = 5; 
+// var num5 = 0;
+// // What do you expect the console message to be? Answer: Num4 is greater than 1
+// if (num4 > 1) { 
+// console.log("Num4 is greater than 1"); 
+// } else { 
+// console.log("Num4 is NOT greater than 1"); 
+// };
+
+//  Question 2b:
+// Given these variables
 var num4 = 5; 
 var num5 = 0;
-// What do you expect the console message to be?
-if (num4 > 1) { 
-console.log("Num4 is greater than 1"); 
+// What do you expect the console message to be? Answer: Else statement Ran
+if (num4 < num5 || num4 === num5 && true) { 
+console.log("If statement ran!"); 
 } else { 
-console.log("Num4 is NOT greater than 1"); 
+console.log("Else statement ran"); 
 };
