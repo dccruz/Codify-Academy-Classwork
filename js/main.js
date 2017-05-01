@@ -47,11 +47,26 @@
 
 //  Question 2b:
 // Given these variables
+// var num4 = 5; 
+// var num5 = 0;
+// // What do you expect the console message to be? Answer: Else statement Ran
+// if (num4 < num5 || num4 === num5 && true) { 
+// console.log("If statement ran!"); 
+// } else { 
+// console.log("Else statement ran"); 
+// };
+
+
+//  Question 2c:
+// Given these variables
 var num4 = 5; 
 var num5 = 0;
-// What do you expect the console message to be? Answer: Else statement Ran
-if (num4 < num5 || num4 === num5 && true) { 
+// What do you expect the console message to be? Answer: Else statement ran
+if (num4 < num5 || num4 === num5) { 
 console.log("If statement ran!"); 
+} else if (num5 === "0" || true) { 
+console.log("Else if statement ran"); 
 } else { 
 console.log("Else statement ran"); 
 };
+
