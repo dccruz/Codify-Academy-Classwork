@@ -23,7 +23,7 @@
 
 
 
-//  Question 1c:
+//  Question 7.1c:
 // What happens here? Answer 1010ten 
 // var mixedNum1 = 10;
 // var mixedString1 = "ten";
@@ -34,7 +34,7 @@
 
 
 // If / Else If / Else - Checking for True or False
-//  Question 2a:
+//  Question 7.2a:
 // Given these variables
 // var num4 = 5; 
 // var num5 = 0;
@@ -45,7 +45,7 @@
 // console.log("Num4 is NOT greater than 1"); 
 // };
 
-//  Question 2b:
+//  Question 7.2b:
 // Given these variables
 // var num4 = 5; 
 // var num5 = 0;
@@ -57,16 +57,31 @@
 // };
 
 
-//  Question 2c:
+//  Question 7.2c:
+// Given these variables
+// var num4 = 5; 
+// var num5 = 0;
+// What do you expect the console message to be? Answer: Else statement ran
+// if (num4 < num5 || num4 === num5) { 
+// console.log("If statement ran!"); 
+// } else if (num5 === "0" || true) { 
+// console.log("Else if statement ran"); 
+// } else { 
+// console.log("Else statement ran"); 
+// };
+
+ // Question 7.2c:
 // Given these variables
 var num4 = 5; 
 var num5 = 0;
-// What do you expect the console message to be? Answer: Else statement ran
-if (num4 < num5 || num4 === num5) { 
+// What do you expect the console message to be? Answer: Else if statement ran
+if (num4 > num5 && num4 === num5) { 
 console.log("If statement ran!"); 
 } else if (num5 === "0" || true) { 
 console.log("Else if statement ran"); 
 } else { 
 console.log("Else statement ran"); 
 };
+
+
 
