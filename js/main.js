@@ -84,4 +84,20 @@
 // };
 
 
+ // Question 7.3:For Loop - Looking into Arrays
+// Given this variable
+var array1 = ["this", "is", "an", "array", "of", "strings"]; 
+
+// What do you expect the console message to be?
+    // each line starting from 0 will have a worrd 
+    // 0 "this"
+    // 1 "is"
+    // 2 "an"
+    // 3 "array"
+    // 4 "of"
+    // 5 "strings"
+
+for (var i = 0; i < array1.length; i = i + 1) { 
+console.log(i, array1[i]); 
+};
 
