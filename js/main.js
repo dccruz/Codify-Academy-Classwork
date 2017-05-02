@@ -72,16 +72,16 @@
 
  // Question 7.2c:
 // Given these variables
-var num4 = 5; 
-var num5 = 0;
+// var num4 = 5; 
+// var num5 = 0;
 // What do you expect the console message to be? Answer: Else if statement ran
-if (num4 > num5 && num4 === num5) { 
-console.log("If statement ran!"); 
-} else if (num5 === "0" || true) { 
-console.log("Else if statement ran"); 
-} else { 
-console.log("Else statement ran"); 
-};
+// if (num4 > num5 && num4 === num5) { 
+// console.log("If statement ran!"); 
+// } else if (num5 === "0" || true) { 
+// console.log("Else if statement ran"); 
+// } else { 
+// console.log("Else statement ran"); 
+// };
 
 
 
