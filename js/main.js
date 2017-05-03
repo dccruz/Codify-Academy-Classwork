@@ -86,7 +86,7 @@
 
  // Question 7.3:For Loop - Looking into Arrays
 // Given this variable
-var array1 = ["this", "is", "an", "array", "of", "strings"]; 
+// var array1 = ["this", "is", "an", "array", "of", "strings"]; 
 
 // What do you expect the console message to be?
     // each line starting from 0 will have a worrd 
@@ -97,7 +97,17 @@ var array1 = ["this", "is", "an", "array", "of", "strings"];
     // 4 "of"
     // 5 "strings"
 
-for (var i = 0; i < array1.length; i = i + 1) { 
-console.log(i, array1[i]); 
-};
+// for (var i = 0; i < array1.length; i = i + 1) { 
+// console.log(i, array1[i]); 
+// };
+
+ // Question 7.3
+// Given these variable
+var array2 = [1, 3, 5, 7, 9]; 
+var total = 0;
+// What do you expect the console message to be? 25 as that is the total of Array one and var total 
+for (var i = 0; i < array2.length; i = i + 1) { 
+total = total + array2[i]; 
+}; 
+console.log(total);
 
