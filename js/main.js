@@ -103,11 +103,23 @@
 
  // Question 7.3
 // Given these variable
-var array2 = [1, 3, 5, 7, 9]; 
-var total = 0;
+// var array2 = [1, 3, 5, 7, 9]; 
+// var total = 0;
 // What do you expect the console message to be? 25 as that is the total of Array one and var total 
+// for (var i = 0; i < array2.length; i = i + 1) { 
+// total = total + array2[i]; 
+// }; 
+// console.log(total);
+
+
+// Given this variable
+var array3 = [11, 33, 55, 77, 99];
+// What do you expect the console message to be?
 for (var i = 0; i < array2.length; i = i + 1) { 
-total = total + array2[i]; 
+if(array3[i] >= 55 || array3[i] <= 100){ 
+console.log(array3, array3[i]); 
 }; 
-console.log(total);
+};
+
+
 
