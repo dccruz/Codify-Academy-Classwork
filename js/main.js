@@ -113,13 +113,28 @@
 
 
 // Given this variable
-var array3 = [11, 33, 55, 77, 99];
-// What do you expect the console message to be?
-for (var i = 0; i < array2.length; i = i + 1) { 
-if(array3[i] >= 55 || array3[i] <= 100){ 
-console.log(array3, array3[i]); 
-}; 
-};
+// var array3 = [11, 33, 55, 77, 99];
+// // What do you expect the console message to be?
+// for (var i = 0; i < array2.length; i = i + 1) { 
+// if(array3[i] >= 55 || array3[i] <= 100){ 
+// console.log(array3, array3[i]); 
+// }; 
+// };
 
+
+
+// Example 7
+// Given this function
+// function testStuff (a, b) { 
+// if(a > 25 && b < 100){ 
+// console.log(a + " is greater than 25 and " + b + " is less then 100"); 
+// } else { 
+// console.log(a + " is NOT greater than 25 and " + b + " is NOT less then 100"); 
+// }; 
+// };
+// // What do you expect the console message to be for each?
+// testStuff(10, 101); 	Answer: 10 is NOT greater than 25 and 101is NOT less then 100
+// testStuff(26, 99); 	Answer: 26 is greater than 25 and 99 is less then 100
+// testStuff(100, 25); 	Answer: 100 is greater than 25 and 25 is less then 100
 
 
