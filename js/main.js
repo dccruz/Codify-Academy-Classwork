@@ -101,7 +101,7 @@
 // console.log(i, array1[i]); 
 // };
 
- // Question 7.3
+ // Question 7.4a
 // Given these variable
 // var array2 = [1, 3, 5, 7, 9]; 
 // var total = 0;
@@ -111,7 +111,7 @@
 // }; 
 // console.log(total);
 
-
+ // Question 7.4b
 // Given this variable
 // var array3 = [11, 33, 55, 77, 99];
 // // What do you expect the console message to be?
@@ -123,7 +123,7 @@
 
 
 
-// Example 7
+ // Question 7.5
 // Given this function
 // function testStuff (a, b) { 
 // if(a > 25 && b < 100){ 
@@ -137,4 +137,19 @@
 // testStuff(26, 99); 	Answer: 26 is greater than 25 and 99 is less then 100
 // testStuff(100, 25); 	Answer: 100 is greater than 25 and 25 is less then 100
 
+// Week 7 Bonus: Fizz Buzz
+for (i=1; i <= 100; i=i+1) {
+	if( ( i % 3 == 0 ) && ( i % 5 == 0 ) ){
+        console.log("fizzbuzz")
+    }
+	else if( i % 3 == 0 ) {
+        console.log('fizz')
+    }
+    else if ( i % 5 == 0 ){
+        console.log("buzz")
+    }
+    else {
+    	console.log(i)
+    }
+}
 
