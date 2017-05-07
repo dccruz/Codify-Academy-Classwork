@@ -1,5 +1,16 @@
+ 
 
 
+ // 6.2 Make the image element appear and disappear when you click the corresponding button.
+ $(document).ready(function() {
+
+  $("#hideBtn").click(function() {
+    $("#exercise6_1 img").hide();
+  });
+  $("#showBtn").click(function() {
+    $("#exercise6_1 img").show();
+  });
+})
 
 // Question 1a: Concatenation: combining things in JavaScript
 
@@ -138,18 +149,18 @@
 // testStuff(100, 25); 	Answer: 100 is greater than 25 and 25 is less then 100
 
 // Week 7 Bonus: Fizz Buzz
-for (i=1; i <= 100; i=i+1) {
-	if( ( i % 3 == 0 ) && ( i % 5 == 0 ) ){
-        console.log("fizzbuzz")
-    }
-	else if( i % 3 == 0 ) {
-        console.log('fizz')
-    }
-    else if ( i % 5 == 0 ){
-        console.log("buzz")
-    }
-    else {
-    	console.log(i)
-    }
-}
+// for (i=1; i <= 100; i=i+1) {
+// 	if( ( i % 3 == 0 ) && ( i % 5 == 0 ) ){
+//         console.log("fizzbuzz")
+//     }
+// 	else if( i % 3 == 0 ) {
+//         console.log('fizz')
+//     }
+//     else if ( i % 5 == 0 ){
+//         console.log("buzz")
+//     }
+//     else {
+//     	console.log(i)
+//     }
+// }
 
