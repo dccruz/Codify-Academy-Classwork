@@ -2,16 +2,24 @@
 
 
  // 6.2 Make the image element appear and disappear when you click the corresponding button.
- $(document).ready(function() {
+//  $(document).ready(function() {
 
-  $("#hideBtn").click(function() {
-    $("#exercise6_1 img").hide();
-  });
-  $("#showBtn").click(function() {
-    $("#exercise6_1 img").show();
-  });
-})
+//   $("#hideBtn").click(function() {
+//     $("#exercise6_1 img").hide();
+//   });
+//   $("#showBtn").click(function() {
+//     $("#exercise6_1 img").show();
+//   });
+// })
 
+
+
+// #6 Make the appearance of h1 element switch between two style sets when it is Double Clicked.
+$(document).ready(function() {
+  $("#exercise6_3 h1").dblclick(function() {
+    $("#exercise6_3 h1").toggleClass("styleSwitch");
+  });
+}
 // Question 1a: Concatenation: combining things in JavaScript
 
 // var string1 = 'Hello ';

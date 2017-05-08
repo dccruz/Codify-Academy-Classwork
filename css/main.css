@@ -1,6 +1,14 @@
 
 /*
 Exercise 6.1*/
-#exercise6_1 img {
+/*#exercise6_1 img {
   width: 350px;
+}*/
+
+
+#exercise6_3 h1 {
+  background-color: tomato;
+  border: 2px solid black;
+  font-size: 24px;
+  width: 50%;
 }
