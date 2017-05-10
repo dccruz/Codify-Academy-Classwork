@@ -6,9 +6,21 @@ Exercise 6.1*/
 }*/
 
 
-#exercise6_3 h1 {
+/*#exercise6_3 h1 {
   background-color: tomato;
   border: 2px solid black;
   font-size: 24px;
   width: 50%;
 }
+*/
+
+
+/* 9_2 Style one class to define the height and width, the other to define background-color.*/
+.class1 {
+  height: 300px;
+  width: 300px;
+}
+.class2 {
+  background-color: black;
+}
+

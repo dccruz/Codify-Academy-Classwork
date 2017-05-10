@@ -15,11 +15,11 @@
 
 
 // #6 Make the appearance of h1 element switch between two style sets when it is Double Clicked.
-$(document).ready(function() {
-  $("#exercise6_3 h1").dblclick(function() {
-    $("#exercise6_3 h1").toggleClass("styleSwitch");
-  });
-}
+// $(document).ready(function() {
+//   $("#exercise6_3 h1").dblclick(function() {
+//     $("#exercise6_3 h1").toggleClass("styleSwitch");
+//   });
+// }
 // Question 1a: Concatenation: combining things in JavaScript
 
 // var string1 = 'Hello ';
@@ -171,4 +171,7 @@ $(document).ready(function() {
 //     	console.log(i)
 //     }
 // }
+
+
+
 
