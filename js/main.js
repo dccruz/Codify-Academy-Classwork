@@ -181,5 +181,5 @@
 // newH1.innerText = "test content, added to an h1";
 
 // #9.6 Add that h1 to the div in your HTML
-document.getElementById("divId1").appendChild(newH1);
+// document.getElementById("divId1").appendChild(newH1);
 
