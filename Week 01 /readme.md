@@ -5,4 +5,5 @@ Exercise for Week 1<br>
 	4. In CSS: Add three css properties to the li (background-color, display & padding).<br>
 	5. In HTML: Create an anchor tag to connect each li to one of your favorite websites.<br>
 	6. In HTML: Create 2 div tags below the navigation, each with a class of box.<br>
+	7. In CSS: Add two css properties to the divs with a class of box (float to the left & width of 50%).<br>
 	
