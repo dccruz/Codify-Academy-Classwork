@@ -6,4 +6,4 @@ Exercise for Week 1<br>
 	5. In HTML: Create an anchor tag to connect each li to one of your favorite websites.<br>
 	6. In HTML: Create 2 div tags below the navigation, each with a class of box.<br>
 	7. In CSS: Add two css properties to the divs with a class of box (float to the left & width of 50%).<br>
-	
+	8. In HTML: Inside 1 of the divs, create 6 header tags each with one of your favorite things you learned this week.<br>	
