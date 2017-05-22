@@ -8,3 +8,5 @@ Exercise for Week 1<br>
 	7. In CSS: Add two css properties to the divs with a class of box (float to the left & width of 50%).<br>
 	8. In HTML: Inside 1 of the divs, create 6 header tags each with one of your favorite things you learned this week.<br>	
 	9. In HTML: Inside the other div, create an image tag with something you love as the picture.<br>
+	10. In CSS: Add three properties of the box model to the image.<br>
+	11. In HTML: Below the image tag add a paragraph with content using lorem text.<br>

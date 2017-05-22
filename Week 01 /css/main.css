@@ -13,13 +13,13 @@
   padding:10px;
 	}
 
+  .wrapper {
+  text-align: center;
+}
+
  /*Exercise 1.7*/
  .box {
   float: left;
   width: 50%;
 }
-.box p {
-  background-color: tomato;
-  border: 5px solid black;
-  padding: 25px;
-}
+
