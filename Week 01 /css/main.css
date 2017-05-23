@@ -23,3 +23,9 @@
   width: 50%;
 }
 
+ /*Exercise 1.13*/
+.box p {
+  background-color: tomato;
+  border: 5px solid black;
+  padding: 25px;
+}

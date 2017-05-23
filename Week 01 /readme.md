@@ -10,3 +10,5 @@ Exercise for Week 1<br>
 	9. In HTML: Inside the other div, create an image tag with something you love as the picture.<br>
 	10. In CSS: Add three properties of the box model to the image.<br>
 	11. In HTML: Below the image tag add a paragraph with content using lorem text.<br>
+	12. In HTML: Add a second class to one of your divs.<br>
+	13.In CSS: Select the p tag inside that div and add 3 properties (background-color, border, margin & padding).
