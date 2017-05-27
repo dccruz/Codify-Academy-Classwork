@@ -3,3 +3,4 @@ Exercise for Week 2<br>
 	2. In HTML: Create one ul tag inside the nav tag, and inside the ul: 3 li tags. <br>
 	3. In HTML: Create one anchor tag inside each li tag. <br>
 	4. In HTML: Create a section tag below your nav tag.  <br>
+	5. In HTML: Create a header tag inside the section tag. <br>
