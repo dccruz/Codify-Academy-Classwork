@@ -4,3 +4,4 @@ Exercise for Week 2<br>
 	3. In HTML: Create one anchor tag inside each li tag. <br>
 	4. In HTML: Create a section tag below your nav tag.  <br>
 	5. In HTML: Create a header tag inside the section tag. <br>
+	6. In HTML: Create one h1 tag inside the header tag with the content "My Favorite Super Heroes". <br>
