@@ -6,3 +6,4 @@ Exercise for Week 2<br>
 	5. In HTML: Create a header tag inside the section tag. <br>
 	6. In HTML: Create one h1 tag inside the header tag with the content "My Favorite Super Heroes". <br>
 	7. In HTML: Create three div tags below the header, each with a class of box. <br>
+	8. In HTML: Inside each div add an img, h2 & p tag in that order. <br>
