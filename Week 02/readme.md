@@ -8,3 +8,4 @@ Exercise for Week 2<br>
 	7. In HTML: Create three div tags below the header, each with a class of box. <br>
 	8. In HTML: Inside each div add an img, h2 & p tag in that order. <br>
 	9. In HTML: Add a picture of one of your favorite superheroes to each img tag.<br>
+	10. In HTML: Add the name of the corresponding superhero inside each h2 as content. <br>
