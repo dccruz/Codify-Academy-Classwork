@@ -11,3 +11,4 @@ Exercise for Week 2<br>
 	10. In HTML: Add the name of the corresponding superhero inside each h2 as content. <br>
 	11. In HTML: Add a description of the corresponding superhero inside each p tag as content.<br>
 	12. In CSS: Select the body tag and set the margin to 0.  <br>
+	13. In CSS: Select the ul tag and set the padding to 0. <br>
