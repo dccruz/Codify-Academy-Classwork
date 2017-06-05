@@ -13,3 +13,4 @@ Exercise for Week 2<br>
 	12. In CSS: Select the body tag and set the margin to 0.  <br>
 	13. In CSS: Select the ul tag and set the padding to 0. <br>
 	14. In CSS: Select the h1 tag and set font-size to 2em. <br>
+	15. In CSS: Add 4 css properties to the nav tag (background- color, margin, padding & text-align). <br>
