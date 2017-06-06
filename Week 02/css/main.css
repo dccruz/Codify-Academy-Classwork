@@ -17,3 +17,11 @@ nav.navigation {
   padding:15px;
   text-align: center;
 }
+
+nav.navigation li,
+footer li {
+  background-color: #E2F89C;
+  display: inline-block;
+  margin: 0 15px;
+  padding:10px;
+}
