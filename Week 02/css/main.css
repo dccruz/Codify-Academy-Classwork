@@ -25,3 +25,9 @@ footer li {
   margin: 0 15px;
   padding:10px;
 }
+
+nav.navigation a,
+footer a {
+  color: #3F7CAC;
+  text-decoration: none;
+}

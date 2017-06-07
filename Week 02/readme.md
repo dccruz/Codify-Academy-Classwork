@@ -15,3 +15,4 @@ Exercise for Week 2<br>
 	14. In CSS: Select the h1 tag and set font-size to 2em. <br>
 	15. In CSS: Add 4 css properties to the nav tag (background- color, margin, padding & text-align). <br>
 	16. In CSS: Add 4 css properties to the li tag (background- color, display, margin & padding). <br>
+	17. In CSS: Add 2 css properties to the a tag (color & text- decoration). <br> 
