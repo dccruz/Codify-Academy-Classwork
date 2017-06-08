@@ -31,3 +31,9 @@ footer a {
   color: #3F7CAC;
   text-decoration: none;
 }
+
+.main {
+  background-color:#95AFBA;
+  display: table;
+  text-align: center;
+}
