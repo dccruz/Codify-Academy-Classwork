@@ -37,3 +37,8 @@ footer a {
   display: table;
   text-align: center;
 }
+
+.box {
+  width: 33.33333333%;
+  float: left;
+}
