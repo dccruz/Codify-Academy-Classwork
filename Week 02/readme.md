@@ -18,4 +18,7 @@ Exercise for Week 2<br>
 	17. In CSS: Add 2 css properties to the a tag (color & text- decoration). <br>  
 	18. In CSS: Add 3 css properties to the section tag (background-color, text-align & display with a value of table). <br>  
 	19. In CSS: Add 2 css properties to those divs with a class of box (float to the left & width of 33.333333333%).<br>  
-	20. In CSS: Select the img tag inside the div tags and add 2 properties (width of less than 100% & height). <br> 
+	20. In CSS: Select the img tag inside the div tags and add 2 
+	properties (width of less than 100% & height). <br> 
+	21. In CSS: Select the p tag inside the div tags and add 5 properties (background-color, border, height margin & padding). <br> 
+	
