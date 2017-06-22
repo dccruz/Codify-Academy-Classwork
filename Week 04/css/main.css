@@ -1,9 +1,27 @@
+/*Exercise 4.3*/
 body {
     text-align: center;
 }
-
+/*Exercise 4.3*/
 .box {
     display: inline-block;
     height: 200px;
     width: 45%;
+}
+
+/*Exercise 4.4*/
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
 }
