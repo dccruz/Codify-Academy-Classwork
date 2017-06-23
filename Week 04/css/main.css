@@ -25,3 +25,10 @@ body {
 .yellow {
     background-color: yellow;
 }
+
+/*Exercise 4.5 -This media query goes from small TO big - saying that the MAX WIDTH where this set of styles will apply is @ 600px (ie: the width of the screen can be AT MOST 600px for these styles to take effect)*/
+@media (max-width: 600px) {
+    .blue, .green {
+        display: none;
+    }
+}

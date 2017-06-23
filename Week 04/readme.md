@@ -3,4 +3,5 @@ Exercise for Week 4<br>
 	ex: <div class="box red"></div>
 	2. In CSS: Select the body tag and add text-align center as a property and value.<br>.
 	3. In CSS: Select the class of box and add 3 properties display, height & width.<br> 
-	4. In CSS: Select the second class of each div (they should be different class names) and add a background color to each selector each with a different color.
+	4. In CSS: Select the second class of each div (they should be different class names) and add a background color to each selector each with a different color.<br>
+	5. In CSS: Using media queries make it so that the 2nd and 3rd div tags disappear when you SHRINK the screen size below 600px.
