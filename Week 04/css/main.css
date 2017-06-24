@@ -30,5 +30,14 @@ body {
 @media (max-width: 600px) {
     .blue, .green {
         display: none;
+
+
+    }
+}
+/*Exercise 4.6  - This media query goes from big TO small - saying that the MIN WIDTH where this set of styles will apply is @ 1000px (ie: the width of the screen has to be AT LEAST 1000px for these styles to take effect)
+*/
+@media (min-width: 1000px) {
+    .box {
+        width: 100%;
     }
 }
