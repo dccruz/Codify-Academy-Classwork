@@ -1,1 +1,4 @@
-main.css
+/*remove margin on navbar*/
+.navbar {
+  margin: 0;
+}
