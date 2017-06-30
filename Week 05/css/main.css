@@ -1,4 +1,10 @@
-/*remove margin on navbar*/
+/*Exwercise 5.6*/
 .navbar {
   margin: 0;
+}
+
+/*Exwercise 5.7*/
+.navbar-default {
+    background-color: #ffffff;
+    border-color: #e7e7e7;
 }
