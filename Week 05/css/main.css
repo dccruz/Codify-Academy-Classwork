@@ -8,3 +8,15 @@
     background-color: #ffffff;
     border-color: #e7e7e7;
 }
+
+/*Exwercise 5.8*/
+.btn-primary, .btn-default {
+    color: #fff;
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+}
+.btn-primary:hover, .btn-default:hover {
+    color: #fff;
+    background-color: #18b495;
+    border-color: #18b495;
+}
