@@ -7,3 +7,4 @@ Exercise for Week 5<br>
 	6. In CSS: Remove the margin from the navigation in your main.css.<br>
 	7. In CSS: Update the background-color of the navigation in your main.css.<br>
 	8. In CSS: Update the background-color and border-color and color for the btn-primary & btn-default class<br>
+	9. In CSS: Select your images using a class, add width and height to this class in your main.css.
