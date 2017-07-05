@@ -1,0 +1,2 @@
+Exercise for Week 9<br>
+	When working through these exercises, there are bits and pieces of the instructions that are deliberately left out. You should start thinking about what you THINK you will need in order to accomplish the request. <br>
