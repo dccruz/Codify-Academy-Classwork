@@ -1,9 +1,14 @@
 $(document).ready(function() {
 
-  // Exercise 6.4
+  // Exercise 6.2
   $("#hideBtn").click(function() {
     $("#exercise3 img").hide();
   });
   $("#showBtn").click(function() {
     $("#exercise3 img").show();
+  });
+
+  // Exercise 6.4
+  $("#exercise4 h1").dblclick(function() {
+    $("#exercise4 h1").toggleClass("styleSwitch");
   });
