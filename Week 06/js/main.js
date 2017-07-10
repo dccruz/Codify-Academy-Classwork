@@ -12,3 +12,8 @@ $(document).ready(function() {
   $("#exercise4 h1").dblclick(function() {
     $("#exercise4 h1").toggleClass("styleSwitch");
   });
+
+// Exercise 6.6
+  $("#addBtn").click(function() {
+    $("#exercise5 ul").append("<li>CONTENT!</li>");
+  });
