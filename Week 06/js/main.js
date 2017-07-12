@@ -17,3 +17,13 @@ $(document).ready(function() {
   $("#addBtn").click(function() {
     $("#exercise5 ul").append("<li>CONTENT!</li>");
   });
+
+
+// Exercise 6.8
+  $("#exercise9").hover(function() {
+    $("#exercise9").animate({
+      margin : "15px 35px",
+      padding: "10px",
+      width: "25%"
+    });
+  });

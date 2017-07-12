@@ -6,3 +6,5 @@ Exercise for Week 6<br>
 	5. In HTML: Create a ul tag with 2 li tags inside and a button to add elements.<br>
 	6. In jQuery: Add li elements with content to the end of a list when the button is clicked.<br>
 	7. In HTML: Create a div element.<br>
+	8. In jQuery: Change the appearance of a div when you (the user) hovers over it.<br> 
+	
