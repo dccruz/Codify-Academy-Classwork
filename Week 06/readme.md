@@ -7,4 +7,4 @@ Exercise for Week 6<br>
 	6. In jQuery: Add li elements with content to the end of a list when the button is clicked.<br>
 	7. In HTML: Create a div element.<br>
 	8. In jQuery: Change the appearance of a div when you (the user) hovers over it.<br> 
-	
+	9. In HTML: Add some text to a h2 tag. <br>
