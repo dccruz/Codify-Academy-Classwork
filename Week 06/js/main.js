@@ -27,3 +27,8 @@ $(document).ready(function() {
       width: "25%"
     });
   });
+
+   // Exercise 6.10
+  $("#exercise11").mouseleave(function() {
+    $("#exercise11").slideUp();
+  });
