@@ -9,3 +9,4 @@ Exercise for Week 6<br>
 	 8. In jQuery: Change the appearance of a div when you (the user) hovers over it.<br> 
 	 9. In HTML: Add some text to a h2 tag. <br>
 	10. In jQuery: Make the h2 element slide up when your mouse leaves the element. <br>
+	11. In HTML: Create a button and a div below it.<br>
