@@ -32,3 +32,8 @@ $(document).ready(function() {
   $("#exercise11").mouseleave(function() {
     $("#exercise11").slideUp();
   });
+
+ // Exercise 6.12
+$("#exercise13Div").hover(function() {
+    $("#exercise13Div").fadeOut();
+  });
