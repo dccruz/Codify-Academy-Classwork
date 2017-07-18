@@ -37,3 +37,7 @@ $(document).ready(function() {
 $("#exercise13Div").hover(function() {
     $("#exercise13Div").fadeOut();
   });
+  $("#exercise13Btn").click(function() {
+    $("#exercise13Div").fadeIn();
+  });
+});

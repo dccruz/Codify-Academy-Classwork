@@ -11,3 +11,4 @@ Exercise for Week 6<br>
 	10. In jQuery: Make the h2 element slide up when your mouse leaves the element. <br>
 	11. In HTML: Create a button and a div below it.<br>
 	12. In jQuery: Have this div fade away when you hover over it, and make it come back when you click a button.
+	13. Make the font of some text change when you hover over it.
