@@ -19,10 +19,18 @@ var testNine = ["What kind of variable is this?", 2, 5, 19]; // we know this as 
 console.log("testNine is a: " + typeof(testNine));
 
 
-// #2 Concatenation (combining things in JavaScript)
-  // 7.2 Given these variables
+  //Concatenation (combining things in JavaScript)
+  // 7.2a Given these variables
   var string1 = 'Hello ';
   var string2 = 'my name is ';
   var string3 = 'you name here';
   var combinedStrings = string1 + string2 + string3;
   console.log("result of combinedStrings is: " + combinedStrings);
+
+
+  // 7.2b Given these variables
+  var num1 = 8;
+  var num2 = 52;
+  var num3 = 60;
+  var combinedNumbers = num1 + num2 + num3;
+  console.log("result of combinedNumbers is: " + combinedNumbers);
