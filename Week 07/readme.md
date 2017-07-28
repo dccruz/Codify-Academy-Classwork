@@ -1,5 +1,5 @@
 Exercise for Week 7<br>
-	 1. Determine what variable type each one is <br>
+	 7.1. Determine what variable type each one is <br>
 			var testOne = "What kind of variable is this?";<br>
 			var testTwo = 256;<br>
 			var testThree = ["What", "kind", "of", "variable", "am", "I?"];<br>
@@ -9,17 +9,23 @@ Exercise for Week 7<br>
 			var testSeven = "What am I?"
 			var testEight = true;<br>
 			var testNine = ["What kind of variable is this?", 2, 5, 19];<br>
- 	 2a. Given these variables<br>
+ 	 7.2a. Given these variables<br>
 			var string1 = "Hello "; <br>
 			var string2 = "my name is "; <br>
 			var string3 = "your name here"; <br>
 			var combinedStrings = string1 + string2 + string3; <br>
 			What do you expect the console message to be? <br>
 			console.log(combinedStrings);<br>
-	 2b. Given these variables<br>
+	 7.2b. Given these variables<br>
 			var num1 = 8; <br>
 			var num2 = 52; <br>
 			var num3 = 60; <br>
 			var combinedNumbers = num1 + num2 + num3;<br>
 			What do you expect the console message to be? 
 			console.log(combinedNumbers);<br>
+	 7.3 Given these variables
+		  	var mixedNum1 = 10;
+		  	var mixedString1 = "ten";
+		  	var mixedNum2 = "10";
+		  	var mixedConcatenation = mixedNum1 + mixedNum2 + mixedString1;
+		  	console.log(mixedConcatenation);

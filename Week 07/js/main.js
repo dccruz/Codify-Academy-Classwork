@@ -34,3 +34,10 @@ console.log("testNine is a: " + typeof(testNine));
   var num3 = 60;
   var combinedNumbers = num1 + num2 + num3;
   console.log("result of combinedNumbers is: " + combinedNumbers);
+
+  // 7.3 Given these variables
+  var mixedNum1 = 10;
+  var mixedString1 = "ten";
+  var mixedNum2 = "10";
+  var mixedConcatenation = mixedNum1 + mixedNum2 + mixedString1;
+  console.log(mixedConcatenation);
