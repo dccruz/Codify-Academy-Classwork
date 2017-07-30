@@ -19,7 +19,7 @@ var testNine = ["What kind of variable is this?", 2, 5, 19]; // we know this as 
 console.log("testNine is a: " + typeof(testNine));
 
 
-  //Concatenation (combining things in JavaScript)
+  //#7.2 Concatenation (combining things in JavaScript)
   // 7.2a Given these variables
   var string1 = 'Hello ';
   var string2 = 'my name is ';
@@ -35,9 +35,19 @@ console.log("testNine is a: " + typeof(testNine));
   var combinedNumbers = num1 + num2 + num3;
   console.log("result of combinedNumbers is: " + combinedNumbers);
 
-  // 7.3 Given these variables
+  // 7.2c Given these variables
   var mixedNum1 = 10;
   var mixedString1 = "ten";
   var mixedNum2 = "10";
   var mixedConcatenation = mixedNum1 + mixedNum2 + mixedString1;
   console.log(mixedConcatenation);
+  
+  // #3 IF / ELSE IF / ELSE - Checking True or False
+  // 7.3a Given these variables
+  var num4 = 5;
+  var num5 = 0;
+  if (num4 > 1) {
+    console.log("Num4 is greater than 1");
+  } else {
+    console.log("Num4 is NOT greater than 1");
+  };

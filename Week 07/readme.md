@@ -23,9 +23,18 @@ Exercise for Week 7<br>
 			var combinedNumbers = num1 + num2 + num3;<br>
 			What do you expect the console message to be? 
 			console.log(combinedNumbers);<br>
-	 7.3 Given these variables
-		  	var mixedNum1 = 10;
-		  	var mixedString1 = "ten";
-		  	var mixedNum2 = "10";
-		  	var mixedConcatenation = mixedNum1 + mixedNum2 + mixedString1;
-		  	console.log(mixedConcatenation);
+	 7.2c Given these variables<br>
+		  	var mixedNum1 = 10;<br>
+		  	var mixedString1 = "ten";<br>
+		  	var mixedNum2 = "10";<br>
+		  	var mixedConcatenation = mixedNum1 + mixedNum2 + mixedString1;<br>
+		  	console.log(mixedConcatenation);<br>
+	7.3a Given these variables<br>
+			var num4 = 5; <br>
+			var num5 = 0;<br>
+			What do you expect the console message to be?<br>
+			if (num4 > 1) { <br>
+			console.log("Num4 is greater than 1"); <br>
+			} else { <br>
+			console.log("Num4 is NOT greater than 1"); <br>
+			};<br>
