@@ -47,3 +47,25 @@ Exercise for Week 7<br>
 			} else { <br>
 			console.log("Else statement ran"); <br>
 			};<br>
+	7.3c Given these variables <br>	
+			var num4 = 5; <br>
+			var num5 = 0;<br>
+			What do you expect the console message to be? <br>
+			if (num4 < num5 || num4 === num5) { <br>
+			console.log("If statement ran!"); <br>
+			} else if (num5 === "0" || true) { <br>
+			console.log("Else if statement ran"); <br>
+			} else { <br>
+			console.log("Else statement ran"); <br>
+			};<br> 
+
+
+
+
+
+
+
+
+
+
+			

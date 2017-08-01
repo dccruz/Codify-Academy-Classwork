@@ -60,3 +60,14 @@ console.log("testNine is a: " + typeof(testNine));
   } else {
     console.log("Else statement ran");
   };
+
+  // 7.3c Given these variables
+  var num4 = 5;
+  var num5 = 0;
+  if (num4 < num5 || num4 === num5) {
+    console.log("If statement ran!");
+  } else if (num5 === "0" || true) {
+    console.log("Else if statement ran");
+  } else {
+    console.log("Else statement ran");
+  };
