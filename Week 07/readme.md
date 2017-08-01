@@ -38,3 +38,12 @@ Exercise for Week 7<br>
 			} else { <br>
 			console.log("Num4 is NOT greater than 1"); <br>
 			};<br>
+	7.3b Given these variables <br>
+			var num4 = 5; <br>
+			var num5 = 0;<br>
+			What do you expect the console message to be?<br>
+			if (num4 < num5 || num4 === num5 && true) { <br>
+			console.log("If statement ran!"); <br>
+			} else { <br>
+			console.log("Else statement ran"); <br>
+			};<br>

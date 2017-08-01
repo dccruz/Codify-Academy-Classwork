@@ -51,3 +51,12 @@ console.log("testNine is a: " + typeof(testNine));
   } else {
     console.log("Num4 is NOT greater than 1");
   };
+
+  // 7.3b Given these variables
+  var num4 = 5;
+  var num5 = 0;
+  if (num4 < num5 || num4 === num5 && true) {
+    console.log("If statement ran!");
+  } else {
+    console.log("Else statement ran");
+  };
