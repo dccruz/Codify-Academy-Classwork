@@ -58,6 +58,9 @@ Exercise for Week 7<br>
 			} else { <br>
 			console.log("Else statement ran"); <br>
 			};<br> 
+
+
+			
 	7.3d Given these variables <br>
 			var num4 = 5; <br>
 			var num5 = 0;<br>
