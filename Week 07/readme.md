@@ -76,8 +76,14 @@ Exercise for Week 7<br>
 			for (var i = 0; i < array1.length; i = i + 1) { <br>
 			console.log(i, array1[i]); <br>
 			};<br>
-
-
+	7.4b Given these variables 
+			var array2 = [1, 3, 5, 7, 9]; <br>
+			var total = 0;<br>
+			What do you expect the console message to be?<br>
+			for (var i = 0; i < array2.length; i = i + 1) { <br>
+			total = total + array2[i]; <br>
+			}; <br>
+			console.log(total);<br>
 
 
 
