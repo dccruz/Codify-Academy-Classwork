@@ -82,3 +82,9 @@ console.log("testNine is a: " + typeof(testNine));
   } else {
     console.log("Else statement ran");
   };
+
+  // 7.4a Given this variable
+  var array1 = ["this", "is", "an", "array", "of", "strings"];
+  for (var i = 0; i < array1.length; i = i + 1) {
+    console.log(i, array1[i]);
+  };

@@ -57,10 +57,7 @@ Exercise for Week 7<br>
 			console.log("Else if statement ran"); <br>
 			} else { <br>
 			console.log("Else statement ran"); <br>
-			};<br> 
-
-
-			
+			};<br> 	
 	7.3d Given these variables <br>
 			var num4 = 5; <br>
 			var num5 = 0;<br>
@@ -72,7 +69,13 @@ Exercise for Week 7<br>
 			} else { <br>
 			console.log("Else statement ran"); <br>
 			};<br>
-
+	For Loop - Looking into Arrays<br>
+	7.4a Given these variables <br>
+			var array1 = ["this", "is", "an", "array", "of", "strings"];<br>
+			What do you expect the console message to be?<br>
+			for (var i = 0; i < array1.length; i = i + 1) { <br>
+			console.log(i, array1[i]); <br>
+			};<br>
 
 
 
