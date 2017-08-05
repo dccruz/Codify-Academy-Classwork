@@ -84,6 +84,14 @@ Exercise for Week 7<br>
 			total = total + array2[i]; <br>
 			}; <br>
 			console.log(total);<br>
+	7.4c Given this variable<br>
+			var array3 = [11, 33, 55, 77, 99];<br>
+			What do you expect the console message to be?<br>
+			for (var i = 0; i < array2.length; i = i + 1) { <br>
+			if(array3[i] >= 55 || array3[i] <= 100){ <br>
+			console.log(array3, array3[i]); <br>
+			}; <br>
+			}; <br>
 
 
 

@@ -83,8 +83,38 @@ console.log("testNine is a: " + typeof(testNine));
     console.log("Else statement ran");
   };
 
+  // #7.4 For Loop - Looking into Arrays
   // 7.4a Given this variable
   var array1 = ["this", "is", "an", "array", "of", "strings"];
   for (var i = 0; i < array1.length; i = i + 1) {
     console.log(i, array1[i]);
   };
+
+  // 7.4b Given this variable
+  var array2 = [1, 3, 5, 7, 9];
+  var total = 0;
+  for (var i = 0; i < array2.length; i = i + 1) {
+    total = total + array2[i];
+  };
+  console.log(total);
+
+
+// 7.4c Given this variable
+  var array3 = [11, 33, 55, 77, 99];
+  for (var i = 0; i < array2.length; i = i + 1) {
+    if(array3[i] >= 55 || array3[i] <= 100){
+      console.log(array3, array3[i]);
+    };
+  };
+
+
+
+
+
+
+
+
+
+
+
+
