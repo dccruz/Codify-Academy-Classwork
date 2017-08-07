@@ -109,7 +109,18 @@ console.log("testNine is a: " + typeof(testNine));
 
 
 
-
+// #7.5 Functions - making things happen
+  // 7.5a Given this function
+  function testStuff (a, b) {
+    if(a > 25 && b < 100){
+      console.log(a + " is greater than 25 and " + b + "is less then 100");
+    } else {
+      console.log(a + " is NOT greater than 25 and " + b + "is NOT less then 100");
+    };
+  };
+  testStuff(10, 101);
+  testStuff(26, 99);
+  testStuff(100, 25);
 
 
 

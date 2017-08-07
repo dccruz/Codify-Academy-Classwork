@@ -92,8 +92,18 @@ Exercise for Week 7<br>
 			console.log(array3, array3[i]); <br>
 			}; <br>
 			}; <br>
-
-
+	7.5a Given this function <br>
+			function testStuff (a, b) { <br>
+			if(a > 25 && b < 100){ <br>
+			console.log(a + " is greater than 25 and " + b + "is less than 100"); <br>
+			} else { <br>
+			console.log(a + " is NOT greater than 25 or " + b + "is NOT less than 100"); <br>
+			}; <br>
+			};<br><br>
+			What do you expect the console message to be for each?<br>
+			testStuff(10, 101); <br>
+			testStuff(26, 99); <br>
+			testStuff(100, 25);<br>
 
 
 
