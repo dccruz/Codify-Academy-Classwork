@@ -104,6 +104,20 @@ Exercise for Week 7<br>
 			testStuff(10, 101); <br>
 			testStuff(26, 99); <br>
 			testStuff(100, 25);<br>
+	7.5b Given this function <br>
+			function testStuff2(c, d) { <br>
+			if(c == 25){ <br>
+			console.log(c + " is equal to 25"); <br>
+			} else if(d <= 100){ <br>
+			console.log(d + " is less than or equal to 100"); <br>
+			} else { <br>
+			console.log("Neither if or else if statement ran"); <br>
+			}; <br>
+			};<br><br>
+			What do you expect the console message to be?<br>
+			testStuff2(26, 101); <br>
+			testStuff2(25, 99); <br>
+			testStuff2(102, 24);<br>
 
 
 

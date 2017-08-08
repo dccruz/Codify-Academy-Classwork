@@ -122,6 +122,20 @@ console.log("testNine is a: " + typeof(testNine));
   testStuff(26, 99);
   testStuff(100, 25);
 
+// 7.5b Given this function
+  function testStuff2(c, d) {
+    if(c == 25){
+      console.log(c + " is equal to 25");
+    } else if(d <= 100){
+      console.log(d + " is less than or equal to 100");
+    } else {
+      console.log("Neither if or else if statement ran");
+    };
+  };
+  testStuff2(26, 101);
+  testStuff2(25, 99);
+  testStuff2(102, 24);
+
 
 
 
