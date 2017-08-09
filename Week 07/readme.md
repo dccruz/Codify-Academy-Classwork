@@ -1,5 +1,5 @@
 Exercise for Week 7<br>
-	 7.1. Determine what variable type each one is <br>
+	 7.1. Determine what variable type each one is<br><br>
 			var testOne = "What kind of variable is this?";<br>
 			var testTwo = 256;<br>
 			var testThree = ["What", "kind", "of", "variable", "am", "I?"];<br>
