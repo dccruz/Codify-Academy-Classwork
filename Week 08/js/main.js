@@ -19,3 +19,11 @@ var newArray = [1, 2, 3, 4, 5];
 for (var i = 0; i < newArray.length; i++) {
   console.log(newArray[i]);
 }
+
+// #8.5 Create an object with at least three properties. Console.log each property.
+var newObj = {
+  name : "Chris",
+  age : 300,
+  hair : "black"
+};
+console.log(newObj.name + " " + newObj.age + " " + newObj.hair);
