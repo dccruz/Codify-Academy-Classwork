@@ -27,3 +27,25 @@ var newObj = {
   hair : "black"
 };
 console.log(newObj.name + " " + newObj.age + " " + newObj.hair);
+
+// #8.6 Create an array with multiple objects, each with multiple properties. Use a for loop to console.log the various properties.
+var newArrayObject = [
+  {
+    name : "De'Vonte",
+    age : 15,
+    hair : "black"
+  },
+  {
+    name : "Cristiano",
+    age : 30,
+    hair : "brown"
+  },
+  {
+    name : "Cruz",
+    age : 45,
+    hair : "gold"
+  }
+];
+for (var i = 0; i < newArrayObject.length; i++) {
+  console.log(newArrayObject[i].name + " " + newArrayObject[i].age + " " + newArrayObject[i].hair)
+}
