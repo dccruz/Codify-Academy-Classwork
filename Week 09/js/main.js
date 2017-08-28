@@ -11,18 +11,16 @@ document.getElementById("divId1").appendChild(newH1);
 
 // #9.7 Create an h1 element, create a text node. Add the text node to your h1, then add your h1 to your div.
 var anotherNewH1 = document.createElement("h1");
-var newTextNode = document.createTextNode("More test content for another h1");
+var newTextNode = document.createTextNode("Here's some more test content for another h1");
 
 anotherNewH1.appendChild(newTextNode);
 document.getElementById("divId2").appendChild(anotherNewH1);
-
-
 
 
 // #9.9 Create a function that changes the image source and alt attributes when you click on that button
 function changeImageSrc() {
   var image1 = document.getElementById("image1");
 
-  image1.src = "img/designersdesk.jpg"
-  image1.alt = "Coding Desk, Get to work"
+  image1.src = "img/cat2.jpg"
+  image1.alt = "I'm no scary cat"
 };
