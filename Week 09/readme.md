@@ -6,3 +6,4 @@ Exercise for Week 9<br>
 	9.4 In JS: Create a div and give it an ID.<br> 
 	9.5 In JS: Create an h1 tag and add some text to it using the textContent property.<br> 
 	9.6 In JS: Add that h1 to the div.
+	9.7 In JS: Create another div and give it an ID.
