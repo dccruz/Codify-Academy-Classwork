@@ -5,5 +5,6 @@ Exercise for Week 9<br>
 	9.3 In JS: Change the background-color of the div to a different color.<br> 
 	9.4 In JS: Create a div and give it an ID.<br> 
 	9.5 In JS: Create an h1 tag and add some text to it using the textContent property.<br> 
-	9.6 In JS: Add that h1 to the div.
-	9.7 In JS: Create another div and give it an ID.
+	9.6 In JS: Add that h1 to the div.<br> 
+	9.7 In JS: Create another div and give it an ID.<br> 
+	9.8 In JS: Create an h1 element. Create a text node. Add the text node to your h1, then add your h1 to your div.<br> 
