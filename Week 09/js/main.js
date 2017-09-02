@@ -15,3 +15,14 @@ var newTextNode = document.createTextNode("More test content for another h1");
 
 anotherNewH1.appendChild(newTextNode);
 document.getElementById("divId2").appendChild(anotherNewH1);
+
+
+
+
+// #9.9 Create a function that changes the image source and alt attributes when you click on that button
+function changeImageSrc() {
+  var image1 = document.getElementById("image1");
+
+  image1.src = "img/designersdesk.jpg"
+  image1.alt = "Coding Desk, Get to work"
+};

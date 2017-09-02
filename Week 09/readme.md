@@ -8,3 +8,4 @@ Exercise for Week 9<br>
 	9.6 In JS: Add that h1 to the div.<br> 
 	9.7 In JS: Create another div and give it an ID.<br> 
 	9.8 In JS: Create an h1 element. Create a text node. Add the text node to your h1, then add your h1 to your div.<br> 
+	9.9 In JS: Create an image and a button tag. <br> 
