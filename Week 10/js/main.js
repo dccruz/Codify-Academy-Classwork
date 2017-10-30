@@ -12,3 +12,5 @@ console.log(stringArray);
 
 // #4 Create an array of at least 5 numbers. Sort the array numerically, in ascending order (smallest to biggest).
 var numbersArray = [33, 12, 55, 99, 88];
+numbersArray.sort(function(a, b) {
+  
