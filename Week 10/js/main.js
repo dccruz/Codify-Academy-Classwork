@@ -15,4 +15,5 @@ var numbersArray = [33, 12, 55, 99, 88];
 numbersArray.sort(function(a, b) {
   // look at values as it sorts
   console.log(a, b);
- 
+  return a - b;
+});
