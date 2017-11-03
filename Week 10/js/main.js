@@ -18,3 +18,4 @@ numbersArray.sort(function(a, b) {
   return a - b;
 });
 console.log(stringArray);
+//    Log the length of each of the strings in your array.
