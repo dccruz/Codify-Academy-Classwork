@@ -19,3 +19,5 @@ numbersArray.sort(function(a, b) {
 });
 console.log(stringArray);
 //    Log the length of each of the strings in your array.
+for (var i = 0; i < stringArray.length; i++) {
+ 
