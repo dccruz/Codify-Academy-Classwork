@@ -21,3 +21,4 @@ console.log(stringArray);
 //    Log the length of each of the strings in your array.
 for (var i = 0; i < stringArray.length; i++) {
   console.log(stringArray[i].length);
+};
