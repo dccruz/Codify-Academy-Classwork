@@ -22,3 +22,4 @@ console.log(stringArray);
 for (var i = 0; i < stringArray.length; i++) {
   console.log(stringArray[i].length);
 };
+//    Finally, reverse the array and console the array again
