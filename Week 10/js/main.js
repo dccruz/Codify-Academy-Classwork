@@ -10,7 +10,7 @@ for (var i = 0; i < stringArray.length; i++) {
 stringArray.reverse();
 console.log(stringArray);
 
-// #4 Create an array of at least 5 numbers. Sort the array numerically, in ascending order (smallest to biggest).
+// 10.2 Create an array of at least 5 numbers. Sort the array numerically, in ascending order (smallest to biggest).
 var numbersArray = [33, 12, 55, 99, 88];
 numbersArray.sort(function(a, b) {
   // look at values as it sorts
@@ -18,10 +18,4 @@ numbersArray.sort(function(a, b) {
   return a - b;
 });
 console.log(stringArray);
-//    Log the length of each of the strings in your array.
-for (var i = 0; i < stringArray.length; i++) {
-  console.log(stringArray[i].length);
-};
-//    Finally, reverse the array and console the array again
-stringArray.reverse();
-console.log(stringArray);
+//    Then sort it in descending order
