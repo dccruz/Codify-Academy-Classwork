@@ -24,3 +24,4 @@ for (var i = 0; i < stringArray.length; i++) {
 };
 //    Finally, reverse the array and console the array again
 stringArray.reverse();
+console.log(stringArray);
