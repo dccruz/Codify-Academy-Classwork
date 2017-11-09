@@ -19,3 +19,4 @@ numbersArray.sort(function(a, b) {
 });
 console.log(stringArray);
 //    Then sort it in descending order
+numbersArray.sort(function(a, b) {
