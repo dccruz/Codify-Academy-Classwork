@@ -21,3 +21,4 @@ console.log(stringArray);
 //    Then sort it in descending order
 numbersArray.sort(function(a, b) {
 // look at values as it sorts
+  console.log(b, a);
