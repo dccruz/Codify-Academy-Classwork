@@ -24,3 +24,4 @@ numbersArray.sort(function(a, b) {
   console.log(b, a);
   return b - a;
   });
+console.log(numbersArray);
