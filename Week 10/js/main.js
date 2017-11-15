@@ -25,3 +25,4 @@ numbersArray.sort(function(a, b) {
   return b - a;
   });
 console.log(numbersArray);
+// 10.3 Create an array of three strings.
