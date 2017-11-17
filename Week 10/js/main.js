@@ -27,3 +27,4 @@ numbersArray.sort(function(a, b) {
 console.log(numbersArray);
 // 10.3 Create an array of three strings.
 var stringArray2 = ["internet explorer", "google chrome", "mozilla firefox" ];
+//    Add two new strings to the end of the array
