@@ -30,3 +30,4 @@ var stringArray2 = ["internet explorer", "google chrome", "mozilla firefox" ];
 //    Add two new strings to the end of the array
 stringArray2.push("netscape", "tor");
 //    remove one from the beginning
+stringArray2.shift();
