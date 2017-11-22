@@ -31,3 +31,5 @@ var stringArray2 = ["internet explorer", "google chrome", "mozilla firefox" ];
 stringArray2.push("netscape", "tor");
 //    remove one from the beginning
 stringArray2.shift();
+//    Console the final array - it should have four strings
+console.log(stringArray2);
